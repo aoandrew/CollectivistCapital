@@ -33,12 +33,25 @@ Imagine the following scenario: <br >
 
 The top 1% would only be 25 times better than someone at the 50% mark (the ratio is also the same at the 99% mark!) <br >
 
+Continue to incentive those doing the early work.
+
 ## Appropriate projects
 Highly utilized and popular companies that are disliked/distrusted by the community <br >
 • CommunityUber => Money split 50/50 between drivers and technology <br >
 
+## Incentives
+• The tiered rectangle works to incentive those doing the early work.
+• You'be much more likely to be highly selective in recruiting members of the team.  For each traunch the new people are very literally equal partners.  As an employee, I'm focused on making sure the new employee increases the value of my share. I'm less worried that a super-star new hire will outshine me and take my (higher) place in the equity pyramid.
+• The equity percentage for new hires would be higher for 99.9% of people.  (This would exclude original founders and perhaps later senior management hired usually before acquisition.)
+
+## Disincentives
+• Projects based on life-long research will likely not be a great fit.  If that founder/research wants the value of that research to reflect in the equity table that could very likely be a problem.  To be considered: equity portions allocated to significant ideas/research (and those founders may have to *not* participate in the execution of the idea nor participate in the equity pool as described above lest the equity portion end up exactly from where we started.).  This would have be the negotiated execption -- the spirit of what is happened would more likely be business plans, technology, art, design to be very much contributed in an open source way even before much of the work is started.
+
 ## Ecosystem
 Role of equity + funders + workers + open source + consumer communities and consumer involvement: <br >
+• The business plans, technology, art, design to be very much contributed in an open source way even before much of the work is started.
+
+
 
 UBI companies: <br >
 Companies allocate $1k per month per employee to be distributed.  Each employee can pick one person not themselves (no restrictions. A family member would be the norm.)
@@ -49,9 +62,8 @@ Companies can choose to be Double UBI companies.  Allocate $2k per month per emp
 
 
 
-Continue to incentive those doing the early work.
 
-KEEP BELOW ONLY AS REFERENCE:
+## REFERENCE ONLY
 
 For selected percentiles, the following are the net worth brackets and breakpoints:
 
@@ -110,6 +122,5 @@ Total	10,000,000	100%
 
 
 
-Rather than doing this - collectivist capital 
 
 
