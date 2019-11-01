@@ -38,19 +38,27 @@ Continue to incentive those doing the early work.
 
 ## Appropriate projects
 Highly utilized and popular companies that are disliked/distrusted by the community <br >
+
 • CommunityUber => Money split 50/50 between drivers and technology <br >
 
 ## Incentives
 • The tiered rectangle works to incentive those doing the early work.
+
 • You'be much more likely to be highly selective in recruiting members of the team.  For each traunch the new people are very literally equal partners.  As an employee, I'm focused on making sure the new employee increases the value of my share. I'm less worried that a super-star new hire will outshine me and take my (higher) place in the equity pyramid.
+
 • The equity percentage for new hires would be higher for 99.9% of people.  (This would exclude original founders and perhaps later senior management hired usually before acquisition.)
 
 ## Ecosystem
 Role of equity + funders + workers + open source + consumer communities and consumer involvement: <br >
+
 • The business plans, technology, art, and design need to be very much contributed to and completed in an open source way even before much of the work is started.
+
 • The "win condition" for these projects is to create real community support (not just community "buzz") - but real engagement and real participation in these projects.  In other words, for this to succeed, it often needs the community to contribute to see this succeed.
+
 • The need for secrecy is lessened, because the "first person" to kick-it off doesn't get a disproportional amount of equity -- it is the group that does.
+
 • The future funders need to understand and want to be part of this ethos - it is a very different model of company creation and with it will need to come to terms with the fact that there is a very diverse set of equity holders.  Not exiting but allowing dividends to pay out may become a very real possibility for these companies which hightens the needs for these companies to produce real profits in a reasonable timeframe -- building hype-bubble buzz machines and looking and lookingfor a soft landing with an IPO is not really the "win condition" for these companies.
+
 • There are many possible project but I can see the ecosystem grow in two ways: 
 -- 1) a community/values-based alternatives for current companies, especially ones that are creating new categories of service but may have some justified reputational issues ("it's a horrible company but I love their service") 
 -- 2) traditional local businesses that may have equity structures that load all the risk/reward on founders and workers are effectively shut out of reasonable upside 
@@ -59,6 +67,7 @@ Role of equity + funders + workers + open source + consumer communities and cons
 All the above types can transform industries and create tremendous economic opportunity and real accountability to industries as they stand today.
 
 ## Disincentives
+
 • Projects based on life-long research will likely not be a great fit.  If that founder/research wants the value of that research to reflect in the equity table that could very likely be a problem.  To be considered: equity portions allocated to significant ideas/research (and those founders may have to *not* participate in the execution of the idea nor participate in the equity pool as described above lest the cap table look exactly like the typical patterns we see today -- this isn't a philosophical challenge, but may challenge the communities interest in supporting the initiative.).  A project like this would have to be the negotiated exeception; though I would love for this to become a normative experience as we would want to welcome all types of projects.
 
 ### Related concepts
@@ -73,12 +82,6 @@ Another important point to make is that this is an opt-in decision, and it is im
 
 ## Next steps
 Create business plans, marketing plans, recruitment plans, open source technology plans for business ideas that could thrive under the above situations.
-
-
-
-
-
-
 
 ## REFERENCE ONLY
 
