@@ -53,20 +53,26 @@ Role of equity + funders + workers + open source + consumer communities and cons
 • There are many possible project but I can see the ecosystem grow in two ways: 
 -- 1) a community/values-based alternatives for current companies, especially ones that are creating new categories of service but may have some justified reputational issues ("it's a horrible company but I love their service") 
 -- 2) traditional local businesses that may have equity structures that load all the risk/reward on founders and workers are effectively shut out of reasonable upside 
--- 3) an evolution of open source projects that are currently funded by individuals and are often created either by a very small group of Patreon funded creators or by a much larger group of open source contributors that do not have a reasonable way to organize and fairly pay/reward the contributors  
+-- 3) an evolution of open source projects that are currently funded by individuals and are often created either by a very small group of Patreon or Kickstarter funded creators, slightly larger groups organized via Open Collective, or by a much larger group of contributors to open source projects that do not have a reasonable way to organize and fairly pay/reward the contributors (their compensation usually comes in the form of jobs at companies their skills / or the projects they work on)
 
 All the above types can transform industries and create tremendous economic opportunity and real accountability to industries as they stand today.
 
 ## Disincentives
-• Projects based on life-long research will likely not be a great fit.  If that founder/research wants the value of that research to reflect in the equity table that could very likely be a problem.  To be considered: equity portions allocated to significant ideas/research (and those founders may have to *not* participate in the execution of the idea nor participate in the equity pool as described above lest the cap table look exactly like the typical patterns we see today -- this isn't a philosophical challenge, but may challenge the communities interest in supporting the initiative.).  Seeing a project like this would have to be the negotiated execption.
+• Projects based on life-long research will likely not be a great fit.  If that founder/research wants the value of that research to reflect in the equity table that could very likely be a problem.  To be considered: equity portions allocated to significant ideas/research (and those founders may have to *not* participate in the execution of the idea nor participate in the equity pool as described above lest the cap table look exactly like the typical patterns we see today -- this isn't a philosophical challenge, but may challenge the communities interest in supporting the initiative.).  A project like this would have to be the negotiated exeception; though I would love for this to become a normative experience as we would want to welcome all types of projects.
 
-
-
-
+### Related concepts
 UBI companies: <br >
 Companies allocate $1k per month per employee to be distributed.  Each employee can pick one person not themselves (no restrictions. A family member would be the norm.)
 
 Companies can choose to be Double UBI companies.  Allocate $2k per month per employee to be distributed.  Each employee can pick one person not themselves (no restrictions. A family member would be the norm.)
+
+This would be optional but something that would generate community support in the project.  A company giving credit to an employee is not the same as UBI at a governmental level -- but it does fit with the ethos of Collectivist Capital, it does help introduce the idea of UBI to people, and theoretically if half of the country's companies (by number of employees) elects to become a UBI company then the country can be "covered economically"; the country sets itself up to be in a more economic stable situation and reaping the benefits that UBI promises.  Again, it is *not* the same as UBI distributed at the governmental level, but it is a step forward.
+
+Another important point to make is that this is an opt-in decision, and it is important that the community respects that as we do not want to create pressure-filled, shame-based generosity; this is simply not the ethos.  It must be a self-directed, community and company and contributor-driven decision.
+
+## Next steps
+Create business plans, marketing plans, recruitment plans, open source technology plans for business ideas that could thrive under the above situations.
+
 
 
 
