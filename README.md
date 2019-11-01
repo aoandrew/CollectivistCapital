@@ -1,4 +1,4 @@
-# CollectivistCapital
+# Collectivist Capital
 A new way to organize capital and entrepreneurial efforts
 
 Core values:
@@ -33,15 +33,14 @@ Imagine the following scenario:
 
 The top 1% would only be 25 times better than someone at the 50% mark (the ratio is also the same at the 99% mark!)
 
-Appropriate projects:
+##Appropriate projects
+Highly utilized and popular companies that are disliked/distrusted by the community
+• CommunityUber => Money split 50/50 between drivers and technology
 
-Role of equity + funders + open source + consumer communities:
+##Ecosystem
+Role of equity + funders + workers + open source + consumer communities and consumer involvement:
 
-
-Related concept: 
-Community involvement: 
-UBI Companies:
-
+UBI companies:
 
 
 
