@@ -1,5 +1,5 @@
 # Collectivist Capital
-A new way to organize capital and entrepreneurial efforts
+A new way to organize capital and entrepreneurial endeavours.
 
 Core values: <br >
 Generosity + Shared destiny <br >
@@ -44,12 +44,22 @@ Highly utilized and popular companies that are disliked/distrusted by the commun
 • You'be much more likely to be highly selective in recruiting members of the team.  For each traunch the new people are very literally equal partners.  As an employee, I'm focused on making sure the new employee increases the value of my share. I'm less worried that a super-star new hire will outshine me and take my (higher) place in the equity pyramid.
 • The equity percentage for new hires would be higher for 99.9% of people.  (This would exclude original founders and perhaps later senior management hired usually before acquisition.)
 
-## Disincentives
-• Projects based on life-long research will likely not be a great fit.  If that founder/research wants the value of that research to reflect in the equity table that could very likely be a problem.  To be considered: equity portions allocated to significant ideas/research (and those founders may have to *not* participate in the execution of the idea nor participate in the equity pool as described above lest the equity portion end up exactly from where we started.).  This would have be the negotiated execption -- the spirit of what is happened would more likely be business plans, technology, art, design to be very much contributed in an open source way even before much of the work is started.
-
 ## Ecosystem
 Role of equity + funders + workers + open source + consumer communities and consumer involvement: <br >
-• The business plans, technology, art, design to be very much contributed in an open source way even before much of the work is started.
+• The business plans, technology, art, and design need to be very much contributed to and completed in an open source way even before much of the work is started.
+• The "win condition" for these projects is to create real community support (not just community "buzz") - but real engagement and real participation in these projects.  In other words, for this to succeed, it often needs the community to contribute to see this succeed.
+• The need for secrecy is lessened, because the "first person" to kick-it off doesn't get a disproportional amount of equity -- it is the group that does.
+• The future funders need to understand and want to be part of this ethos - it is a very different model of company creation and with it will need to come to terms with the fact that there is a very diverse set of equity holders.  Not exiting but allowing dividends to pay out may become a very real possibility for these companies which hightens the needs for these companies to produce real profits in a reasonable timeframe -- building hype-bubble buzz machines and looking and lookingfor a soft landing with an IPO is not really the "win condition" for these companies.
+• There are many possible project but I can see the ecosystem grow in two ways: 
+-- 1) a community/values-based alternatives for current companies, especially ones that are creating new categories of service but may have some justified reputational issues ("it's a horrible company but I love their service") 
+-- 2) traditional local businesses that may have equity structures that load all the risk/reward on founders and workers are effectively shut out of reasonable upside 
+-- 3) an evolution of open source projects that are currently funded by individuals and are often created either by a very small group of Patreon funded creators or by a much larger group of open source contributors that do not have a reasonable way to organize and fairly pay/reward the contributors  
+
+All the above types can transform industries and create tremendous economic opportunity and real accountability to industries as they stand today.
+
+## Disincentives
+• Projects based on life-long research will likely not be a great fit.  If that founder/research wants the value of that research to reflect in the equity table that could very likely be a problem.  To be considered: equity portions allocated to significant ideas/research (and those founders may have to *not* participate in the execution of the idea nor participate in the equity pool as described above lest the cap table look exactly like the typical patterns we see today -- this isn't a philosophical challenge, but may challenge the communities interest in supporting the initiative.).  Seeing a project like this would have to be the negotiated execption.
+
 
 
 
