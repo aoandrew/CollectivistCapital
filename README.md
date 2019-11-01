@@ -22,9 +22,10 @@ If you look at startup equity - at the time of an exit at series D, the founder 
 
 In other words, startup and enterpreneurship which is supposed to be the model and vehicle for economic mobility actually (almost exactly) mirrors the problem we are trying to avoid.
 
-In sum, we're facility high society pressure due to highly heirachicial, high inequality, high concentration of capital.
+To take stock of our current sitaution; we're facing tremendous societal pressure due to wealth inequalty.  Technology and entepreneurship which was supposed to be the great societal equalizer is actually following the same pattern of the problem.
+We need a different way forward.
 
-The alternative to a pyramid structure of equity for employees to startup would be a series of tiers.  Rectangles of increasing size.  (A parallelogram if you're viewing it at the right distance.)
+The alternative to a pyramid structure of equity and wealth distribution for employees to startup would be a series of tiers?  Rectangles of increasing size.  (A parallelogram if you're viewing it at the right distance.).  This would amount to tiers of equity earned at equal rates by all employees at those tiers.
 
 Imagine the following scenario: <br >
 1% each for the first round of employees (20 employees) = 20% <br >
