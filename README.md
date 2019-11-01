@@ -1,10 +1,10 @@
 # Collectivist Capital
 A new way to organize capital and entrepreneurial efforts
 
-Core values:
-Generosity + Shared destiny
-Belief in free markets
-Empowerment
+Core values: <br >
+Generosity + Shared destiny <br >
+Belief in free markets <br >
+Empowerment <br >
 
 At the heart of capitalism is the company.  In Latin, _companio_, shared bread or with those you share bread with.
 
@@ -26,22 +26,24 @@ In sum, we're facility high society pressure due to highly heirachicial, high in
 
 The alternative to a pyramid structure of equity for employees to startup would be a series of tiers.  Rectangles of increasing size.  (A parallelogram if you're viewing it at the right distance.)
 
-Imagine the following scenario:
-1% each for the first round of employees (20 employees) = 20%
-.2% each for the second round of employees (100 employees) = 20%
-.04% each of the third round of employees ( 500 ) = 20%
+Imagine the following scenario: <br >
+1% each for the first round of employees (20 employees) = 20% <br >
+.2% each for the second round of employees (100 employees) = 20% <br >
+.04% each of the third round of employees ( 500 ) = 20% <br >
 
-The top 1% would only be 25 times better than someone at the 50% mark (the ratio is also the same at the 99% mark!)
+The top 1% would only be 25 times better than someone at the 50% mark (the ratio is also the same at the 99% mark!) <br >
 
-##Appropriate projects
-Highly utilized and popular companies that are disliked/distrusted by the community
-• CommunityUber => Money split 50/50 between drivers and technology
+## Appropriate projects
+Highly utilized and popular companies that are disliked/distrusted by the community <br >
+• CommunityUber => Money split 50/50 between drivers and technology <br >
 
-##Ecosystem
-Role of equity + funders + workers + open source + consumer communities and consumer involvement:
+## Ecosystem
+Role of equity + funders + workers + open source + consumer communities and consumer involvement: <br >
 
-UBI companies:
+UBI companies: <br >
+Companies allocate $1k per month per employee to be distributed.  Each employee can pick one person not themselves (no restrictions. A family member would be the norm.)
 
+Companies can choose to be Double UBI companies.  Allocate $2k per month per employee to be distributed.  Each employee can pick one person not themselves (no restrictions. A family member would be the norm.)
 
 
 
