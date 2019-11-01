@@ -12,7 +12,7 @@ Over time, capitalism has shown itself to be the most effective way to deploy ca
 
 The core driver or source of strength in capitalist structures is capital; the drive for capital accumulation is a strong organizing force in society.  
 
-Concentration of capital confers extraordinary power and influence on the capital holders but also has the ability to disenfranchise outsiders.  The anger of disenfrachised outsiders is often and for long periods of time suffered in relative silence but often this anger spills into very real and consequential social upheavals to equalize power imbalances.  Equal distribution equalizes power -- but enforcing equalization can create strange and sometimes destructive incentives or consequences. (#history)
+Concentration of capital confers extraordinary power and influence to the capital holders but also has the ability to disenfranchise outsiders.  The anger of disenfrachised outsiders is often, and for long periods of time, suffered in relative silence but at some point this anger spills into very real and consequential social upheavals to equalize power imbalances.  Equal distribution equalizes power - but enforcing equalization can create strange and sometimes destructive incentives or consequences. (#history)
 
 We live in a situation where the top 1% owns 40% of America's wealth; the bottom 80% only owns 7% of the wealth.
 
