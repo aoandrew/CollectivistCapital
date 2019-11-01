@@ -2,9 +2,9 @@
 A new way to organize capital and entrepreneurial endeavours.
 
 Core values: <br >
-Generosity + Shared destiny <br >
-Belief in free markets <br >
-Empowerment <br >
+Generosity + shared destiny <br >
+Belief in free markets + freedom + liberty <br >
+Empowerment created by capitalism <br >
 
 At the heart of capitalism is the company.  In Latin, _companio_, shared bread or with those you share bread with.
 
