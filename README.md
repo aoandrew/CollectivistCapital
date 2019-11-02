@@ -113,8 +113,9 @@ Source: https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/
 So the top 1% is 10 million times better off than someone in the bottom ~15th, and the top 1% is one hundred times better off than some at the 50% mark. 
 
 If you look at the equity pool pool after Series A (which is probably the most generous picture) - the option pool would stand at 15% which could be distributed by 100 employees.  Let's say that is 0.015%.  After a Series A, the founders would likely have around 22%.  So that would mean the founder would be 1466 times better. 733 times better if we're talking about 2 founders.
-https://tools.ltse.com/sizing-the-option-pool-whats-normal-95e0f2bc0b88
-https://cofounderslab.com/discuss/what-is-the-normal-equity-distribution-for-founders-after-a-series-a
+
+Source: https://tools.ltse.com/sizing-the-option-pool-whats-normal-95e0f2bc0b88
+Source: https://cofounderslab.com/discuss/what-is-the-normal-equity-distribution-for-founders-after-a-series-a
 
 For a Series D exist over 5000 companies, here are some results.
 Founder ownership: 11-17%
@@ -125,27 +126,21 @@ The number of employees isn't listed so let's say we're looking at 500 employees
 
 That would mean the founder would have 9.13% and an average employee would have .034%, or in other words, 250 times better. 125 times better if we're talking about 2 founders.
 
-https://www.capshare.com/blog/4-key-insights-from-5000-cap-tables/
+Source: https://www.capshare.com/blog/4-key-insights-from-5000-cap-tables/
 
+After the closing might look something like this:
 
+No. of Shares	Post-Financing Ownership (%) <br /> 
+Founder 1 (CEO)	2,300,000	23% <br />
+Founder 2 (CTO)	2,300,000	23% <br />
+Founder 3 (VP Mktg)	1,700,000	17% <br />
+Professor/Advisor	200,000	2% <br />
+Employee options	500,000	5% <br />
+Available pool	1,000,000	10% <br />
+Series A investors	2,000,000	20% <br />
+Total	10,000,000	100% <br />
 
-
-
-
-
-https://www.cooleygo.com/how-to-allocate-stock-to-founders-early-team-members/
-
-after the closing might look something like this:
-
-No. of Shares	Post-Financing Ownership (%)
-Founder 1 (CEO)	2,300,000	23%
-Founder 2 (CTO)	2,300,000	23%
-Founder 3 (VP Mktg)	1,700,000	17%
-Professor/Advisor	200,000	2%
-Employee options	500,000	5%
-Available pool	1,000,000	10%
-Series A investors	2,000,000	20%
-Total	10,000,000	100%
+Source: https://www.cooleygo.com/how-to-allocate-stock-to-founders-early-team-members/
 
 
 
