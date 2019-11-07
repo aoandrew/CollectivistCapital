@@ -6,7 +6,7 @@ Generosity + shared destiny <br >
 Belief in free markets + freedom + liberty <br >
 Empowerment created by capitalism <br >
 
-### Concentration of Capital and An Alternative
+### An Alternative To The Current Equity Distribution Structure
 
 At the heart of capitalism is the company.  In Latin, _companio_, shared bread or with those you share bread with.
 
@@ -37,7 +37,12 @@ Imagine the following scenario: <br >
 
 The top 1% would only be 25 times better than someone at the 50% mark (the ratio is also the same at the 99% mark!) <br >
 
-Continue to incentive those doing the early work.
+Continue to incentize those doing the early work but creating the tiers. Create clusters of partners by create equal traunch tiers.
+
+## Equitable Economy, Supporting the Creative Class, Open Source
+The discontent has never been higher.  The economics of distress and the political choices people are struggling
+
+
 
 ## Appropriate projects
 Highly utilized and popular companies that are disliked/distrusted by the community <br >
