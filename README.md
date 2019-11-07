@@ -39,9 +39,12 @@ The top 1% would only be 25 times better than someone at the 50% mark (the ratio
 
 Continue to incentize those doing the early work but creating the tiers. Create clusters of partners by create equal traunch tiers.
 
-## Equitable Economy, Supporting the Creative Class, Open Source
-The discontent has never been higher.  The economics of distress and the political choices people are struggling
+### Equitable Economy, Supporting the Creative Class, Open Source
+- The discontent has never been higher.  The economics of distress and the political choices are those of people struggling.
+- The creative class has never had a higher platform, or one so intermingled within the business world.  Art + business + strategy are mixing in ways never before seen or at least not rewarded at these levels.  Or where designers could have so much influence on outcomes ofa business.
+- Open source runs more than half the worlds computers.  The impact of open source has never been higher.  We're starting to see ways of rewarding open source contributers and open source contributers are now creating more and more directly monetizable pieces of the application/technology stack. 
 
+Hihgly skilled creatives/technologies and open source and creating more and more meaningful pieces of code.  Collectives are alone adn creating meaningful ocontect patreron and open colelctive 
 
 
 ## Appropriate projects
