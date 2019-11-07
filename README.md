@@ -41,16 +41,21 @@ Continue to incentize those doing the early work but creating the tiers. Create 
 
 ### Equitable Economy, Supporting the Creative Class, Open Source
 - The discontent has never been higher.  The economics of distress and the political choices are those of people struggling.
-- The creative class has never had a higher platform, or one so intermingled within the business world.  Art + business + strategy are mixing in ways never before seen or at least not rewarded at these levels.  Or where designers could have so much influence on outcomes ofa business.
+- The creative class has never had a higher platform, or one so intermingled within the business world.  Art + business + strategy are mixing in ways never before seen or at least not rewarded at these levels.  Or where designers, a small group of engineers, sales people or marketers could have so much influence on outcomes and momentum of a business.
 - Open source runs more than half the worlds computers.  The impact of open source has never been higher.  We're starting to see ways of rewarding open source contributers and open source contributers are now creating more and more directly monetizable pieces of the application/technology stack. 
+- Highly skilled creatives/technologists and open source creators have been given strong and stronger platforms.  Collectives are lone creators are creating meaningful content - look at the evolution of Github, Patreon, Kickstarted, Etsey, and the Open Collective.
 
-Hihgly skilled creatives/technologies and open source and creating more and more meaningful pieces of code.  Collectives are alone adn creating meaningful ocontect patreron and open colelctive 
+The corporation has always been a means of "coordinating labor"; in light of all the above, this is changing and there is a need for new ways of structuring the corporation to better incentivize these productive collaborative groups.  The creators are creating differentiated outcomes --> they need mechanisms that incentive and rewards them, and still let them work with each other in such a way that it incentivizes rewards their coorperation.  As open source becomes more and more important new structures are needed to coordinate the corporation that "houses" and coordinates their talents.
 
+In the same way that law firms are run by lawyers for lawyers to do their best work and incentized to do so, these collectives can be run by creatives and allow creatives to do their best work and be incentized to do so.
+
+I am trying to point to an ethos and a feeling of a collaborative culture of true partnership that is reflected in both the comraderie in the word but also in the equity ownership.
 
 ## Appropriate projects
 Highly utilized and popular companies that are disliked/distrusted by the community <br >
 
 • CommunityUber => Money split 50/50 between drivers and technology <br >
+
 
 ## Incentives
 • The tiered rectangle works to incentive those doing the early work.
