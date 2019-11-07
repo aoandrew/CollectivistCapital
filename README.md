@@ -6,6 +6,8 @@ Generosity + shared destiny <br >
 Belief in free markets + freedom + liberty <br >
 Empowerment created by capitalism <br >
 
+### Concentration of Capital and An Alternative
+
 At the heart of capitalism is the company.  In Latin, _companio_, shared bread or with those you share bread with.
 
 Over time, capitalism has shown itself to be the most effective way to deploy capital and talent and resources.
@@ -26,7 +28,7 @@ To take stock of our current situation; we're facing tremendous societal pressur
 
 We need a different way forward.
 
-The alternative to a pyramid structure of equity and wealth distribution for employees to startup would be a series of tiers?  Rectangles of increasing size.  (A parallelogram if you're viewing it at the right distance.).  This would amount to tiers of equity earned at equal rates by all employees at those tiers.
+The alternative to a pyramid structure of equity and wealth distribution for employees to startup would be a series of tiers?  Stacked rectangles, each rectangle would equate to tiers of equity earned at equal rates by employees at those tiers.
 
 Imagine the following scenario: <br >
 1% each for the first round of employees (20 employees) = 20% <br >
